@@ -10,7 +10,7 @@ Collection of small matrices for testing programs.
 * [Pajek/GD98_a](https://sparse.tamu.edu/Pajek/GD98_a)
 * [Pajek/GD98_b](https://sparse.tamu.edu/Pajek/GD98_b)
 
-# Third-Party Licenses
+## Third-Party License
 
 The matirces are downloaded from the [SuiteSparse Matrix Collection](https://sparse.tamu.edu/) and are licensed under the CC-BY 4.0 license.
 
