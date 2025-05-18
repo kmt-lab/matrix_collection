@@ -9,7 +9,7 @@ Collection of small matrices for testing programs.
 * [HB/will57](https://sparse.tamu.edu/HB/will57)
 * [Pajek/GD98_a](https://sparse.tamu.edu/Pajek/GD98_a)
 * [Pajek/GD98_b](https://sparse.tamu.edu/Pajek/GD98_b)
-* [Cora](https://paperswithcode.com/dataset/cora)
+* [Cora (Papers With Code)](https://paperswithcode.com/dataset/cora)
 
 ## Third-Party License
 
