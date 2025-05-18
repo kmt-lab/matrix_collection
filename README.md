@@ -11,7 +11,7 @@ Collection of small matrices for testing programs.
 * [Pajek/GD98_b](https://sparse.tamu.edu/Pajek/GD98_b)
 * [Cora (Papers With Code)](https://paperswithcode.com/dataset/cora)
 
-## Third-Party License
+## Third-Party Licenses
 
 The most matirces have been obtained from the [SuiteSparse Matrix Collection](https://sparse.tamu.edu/) and are licensed under the CC-BY 4.0 license.
 
