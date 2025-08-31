@@ -8,6 +8,7 @@ Collection of small matrices for testing programs.
 * [HB/ibm32](https://sparse.tamu.edu/HB/ibm32)
 * [HB/will57](https://sparse.tamu.edu/HB/will57)
 * [HB/will199](https://sparse.tamu.edu/HB/will199)
+* [MathWorks/Harvard500](https://sparse.tamu.edu/MathWorks/Harvard500)
 * [Pajek/GD98_a](https://sparse.tamu.edu/Pajek/GD98_a)
 * [Pajek/GD98_b](https://sparse.tamu.edu/Pajek/GD98_b)
 * [Cora (Papers With Code)](https://paperswithcode.com/dataset/cora)
